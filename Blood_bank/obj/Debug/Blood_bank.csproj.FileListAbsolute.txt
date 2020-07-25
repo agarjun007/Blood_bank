@@ -1,0 +1,19 @@
+c:\users\arjun a g\documents\visual studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.csprojResolveAssemblyReference.cache
+c:\users\arjun a g\documents\visual studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Form1.resources
+c:\users\arjun a g\documents\visual studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Properties.Resources.resources
+c:\users\arjun a g\documents\visual studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.csproj.GenerateResource.Cache
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Database1.mdf
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Database1_log.ldf
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Form2.resources
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Blood Bank.exe.config
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Blood Bank.exe
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Blood Bank.pdb
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood Bank.exe
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood Bank.pdb
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Blood Bank.exe.manifest
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\bin\Debug\Blood Bank.application
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood Bank.exe.manifest
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood Bank.application
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Form3.resources
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Form4.resources
+C:\Users\ARJUN A G\Documents\Visual Studio 2012\Projects\Blood_bank\Blood_bank\obj\Debug\Blood_bank.Form5.resources
